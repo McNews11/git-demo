@@ -1,2 +1,5 @@
 sword appear
 and not
+
+standing stgrong
+again repeat
