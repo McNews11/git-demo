@@ -1,2 +1,4 @@
 sword appear
 and not
+standing
+lying
